@@ -5,6 +5,6 @@ There is minimal user interaction - no buttons or menus to worry about.  Just in
 
 ###Examples:
 
-https://np.reddit.com/r/sysadmin would become https://www.reddit.com/r/sysadmin.
+"https://np.reddit.com/r/sysadmin" would become "https://www.reddit.com/r/sysadmin".
 
-np.reddit.com/r/programming would become www.reddit.com/r/programming.
+"np.reddit.com/r/programming" would become "www.reddit.com/r/programming".
