@@ -1,0 +1,13 @@
+{
+  "title": "NP-Bypass",
+  "name": "np-bypass",
+  "version": "0.0.1",
+  "description": "Removes np links from reddit.com.",
+  "main": "index.js",
+  "author": "mmcru",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPLv3"
+}
